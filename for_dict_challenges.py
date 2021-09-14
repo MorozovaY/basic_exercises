@@ -10,7 +10,7 @@ students = [
     {'first_name': 'Петя'},
     {'first_name': 'Маша'},
     {'first_name': 'Маша'},
-    {'first_name': 'Петя'},
+    {'first_name': 'Петя'}
 ]
 # ???
 
